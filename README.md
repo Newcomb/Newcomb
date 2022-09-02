@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Newcomb
+- 👀 I’m interested in backend software development!
+- 🌱 I’m currently working on a project that will simplify the creation of employee pay stubs for a client.
